@@ -3,8 +3,5 @@
 - 🌱 I’m a research staff.
 - 🦀 I’m looking to collaborate on landscape and demographic simulations, bioinformatics workflows, and data visualisation tools.
 - 📫 How to reach me: [personal email](mailto:jeffersonparil@gmail.com)
-
-<!---
-jeffersonfparil/jeffersonfparil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
+My contributions and submissions to all repositories and projects not explicitly affiliated with my employer are made solely in my personal capacity.
