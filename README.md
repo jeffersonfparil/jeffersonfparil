@@ -4,4 +4,4 @@
 - 🦀 I’m looking to collaborate on landscape and demographic simulations, bioinformatics workflows, and data visualisation tools.
 - 📫 How to reach me: [personal email](mailto:jeffersonparil@gmail.com)
   
-My contributions and submissions to all repositories and projects not explicitly affiliated with my employer are made solely in my personal capacity.
+My contributions to repositories and projects not explicitly affiliated with my employer are made solely in my personal capacity.
