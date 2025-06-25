@@ -5,3 +5,5 @@
 - 📫 How to reach me: [personal email](mailto:jeffersonparil@gmail.com)
   
 My contributions to repositories and projects not explicitly affiliated with my employer are made solely in my personal capacity.
+
+![](https://github-readme-stats.vercel.app/api?username=jeffersonfparil&show_icons=true&theme=transparent)
