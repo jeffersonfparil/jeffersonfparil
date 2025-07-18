@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Jeff](https://jeffersonfparil.github.io).
+- 👋 Hi, I’m [Jeff](https://jeffersonfparil.github.io/about).
 - 🧬 I’m interested in quantitative genetics, population genetics, evolution, and plant breeding.
 - 🌱 I’m a research staff in Agriculture Victoria in Australia.
 - 🦀 I’m looking to collaborate on landscape and demographic simulations, bioinformatics workflows, and data visualisation tools.
