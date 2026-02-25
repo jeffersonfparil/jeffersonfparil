@@ -9,7 +9,7 @@ My contributions to repositories and projects not explicitly affiliated with my 
 
 | Stats | Languages |
 |:---------:|:------------:|
-| ![](https://github-readme-stats-steel-omega.vercel.app/api?username=jeffersonfparil&show_icons=true&theme=transparent) | ![](https://github-readme-stats-steel-omega.vercel.app/api/top-langs?username=jeffersonfparil&show_icons=true&layout=donut&theme=transparent) |
+| ![](https://github-readme-stats-steel-omega.vercel.app/api?username=jeffersonfparil&show_icons=true&theme=transparent) | ![](https://github-readme-stats-steel-omega.vercel.app/api/top-langs?username=jeffersonfparil&show_icons=true&theme=transparent) |
 
 
 
